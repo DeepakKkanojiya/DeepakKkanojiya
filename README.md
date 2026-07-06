@@ -61,11 +61,11 @@ Currently working on:
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=DeepakKkanojiya&show_icons=true&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=DeepakKkanojiya&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakKkanojiya&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -126,23 +126,41 @@ Desktop application built with Electron.
 ## 📊 Skills
 
 ✔ MERN Stack
+
 ✔ REST APIs
+
 ✔ Next.js
+
 ✔ React
+
 ✔ Express.js
+
 ✔ MongoDB
+
 ✔ Redux
+
 ✔ JWT Authentication
+
 ✔ Responsive Design
+
 ✔ TailwindCSS
+
 ✔ Bootstrap
+
 ✔ SEO
+
 ✔ Google Ads
+
 ✔ Meta Ads
+
 ✔ Data Analytics
+
 ✔ Power BI
+
 ✔ SQL
+
 ✔ Excel
+
 ---
 
 # 🌱 Currently Learning
@@ -183,7 +201,7 @@ Desktop application built with Electron.
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=DeepakKkanojiya&style=for-the-badge)
 
 ### ⭐ Thanks for visiting my profile!
 
