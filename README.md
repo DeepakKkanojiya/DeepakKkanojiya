@@ -55,21 +55,6 @@ Currently working on:
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,netlify,npm" />
 </p>
 
----
-
-# 📈 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=DeepakKkanojiya&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=DeepakKkanojiya&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakKkanojiya&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 # 🚀 Featured Projects
 
